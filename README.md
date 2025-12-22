@@ -28,4 +28,4 @@ This project performs basic bioinformatics analysis on a genomic FASTA sequence.
 - Amino acid frequency distribution was visualized using a bar plot, highlighting residue composition of the translated sequence.
 
 ## Purpose
-This project was created as part of learning practical bioinformatics data analysis.
+This project represents foundational sequence-level bioinformatics analysis using FASTA input.
