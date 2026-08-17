@@ -26,6 +26,14 @@ This project performs basic bioinformatics analysis on a genomic FASTA sequence.
 ## Output
 - Amino acid frequency table (CSV)
 - Amino acid frequency distribution was visualized using a bar plot, highlighting residue composition of the translated sequence.
+## Results
+
+### Amino Acid Frequency Distribution
+![Amino Acid Frequency](results/figures/aa_percentage.png)
+
+### Data Files
+- [Amino Acid Frequency Data (CSV)](data/amino_acid_frequency.csv)
+- [FASTA Sequence Summary (CSV)](data/fasta_sequence_summary.csv)
 
 ## Purpose
 This project represents foundational sequence-level bioinformatics analysis using FASTA input.
