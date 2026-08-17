@@ -29,7 +29,7 @@ This project performs basic bioinformatics analysis on a genomic FASTA sequence.
 ## Results
 
 ### Amino Acid Frequency Distribution
-![Amino Acid Frequency](results /figures/aa_percentage.png)
+![Amino Acid Frequency](results/figures/aa_percentage.png)
 
 ### Data Files
 - [Amino Acid Frequency Data (CSV)](data/amino_acid_frequency.csv)
